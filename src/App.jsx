@@ -1,5 +1,5 @@
-import Project from './components/projectList.jsx';
 import Header from './components/header.jsx';
+import Project from './components/project.jsx';
 import Footer from './components/footer.jsx';
 
   function App() {
