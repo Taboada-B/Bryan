@@ -1,12 +1,12 @@
 import Header from './components/header.jsx';
-import Project from './components/project.jsx';
+import Showcaseproject from './components/showcaseProject.jsx';
 import Footer from './components/footer.jsx';
 
   function App() {
   return  (
-      <div className="bucket-app">
+      <div>
         <Header />
-        <Project />
+        <Showcaseproject/>
         <Footer/>
       </div>
     );
