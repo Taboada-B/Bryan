@@ -1,15 +1,18 @@
-import Header from './components/header.jsx';
-import Showcaseproject from './components/showcaseProject.jsx';
-import Footer from './components/footer.jsx';
+import { Outlet } from "react-router-dom";
 
-  function App() {
-  return  (
-      <div>
-        <Header />
-        <Showcaseproject/>
-        <Footer/>
-      </div>
-    );
-  }
+import Header from "./components/header.jsx";
+import Footer from "./components/footer.jsx";
+
+function App() {
+  return (
+    <>
+      <Header />
+      <main>
+        <Outlet />
+      </main>
+      <Footer />
+    </>
+  );
+}
 
 export default App;

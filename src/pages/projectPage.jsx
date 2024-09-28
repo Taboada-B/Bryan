@@ -1,6 +1,6 @@
-const Showcaseproject = () => {
-  return (
-    <main class="container my-5" id="projects">
+export default function ProjectPage() {
+    return (
+        <main class="container my-5" id="projects">
   
       {/* Projects */}
       <section class="other-projects">
@@ -162,7 +162,5 @@ const Showcaseproject = () => {
         </div>
       </section>
     </main>
-  );
-};
-
-export default Showcaseproject;
+    );
+}
