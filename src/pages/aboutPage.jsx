@@ -1,7 +1,7 @@
 
 export default function AboutPage() {
     return (
-        <section class="container my-5">
+        <section class="container my-5 bgColor">
       <div class="row">
         {/* Profile Picture */}
         <div class="col-md-4 text-center mb-4">

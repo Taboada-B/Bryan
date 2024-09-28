@@ -2,7 +2,7 @@ export default function ResumePage() {
   return (
     <section>
       <h1>Resume</h1>
-      <div className="embed-responsive" style={{ height: "500px" }}>
+      <div class="embed-responsive" style={{ height: "500px" }}>
         <iframe 
           src="./src/assets/resume/resume.pdf" 
           width="100%" 
@@ -11,14 +11,14 @@ export default function ResumePage() {
           frameBorder="5px"
         />
       </div>
-      <div className="text-center mb-4">
+      <div class="text-center mb-4">
         <p>View or download my resume below:</p>
         {/* Download Link */}
         <a 
           href="./src/assets/resume/resume.pdf" 
           target="_blank" 
           rel="noopener noreferrer"
-          className="btn btn-primary"
+          class="btn btn-primary"
         >
           Download Resume
         </a>

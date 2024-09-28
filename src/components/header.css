@@ -1,0 +1,13 @@
+:root {
+    --main-bg-color: #9e2a2b; 
+    --body-bg-color: #e09f3e;
+} 
+
+
+.backgroundHeader {
+    background: linear-gradient( var(--main-bg-color) 10%,  var(--body-bg-color) 100%);
+}
+
+.backgroundFooter {
+    background: linear-gradient( var(--body-bg-color) 0%, var(--main-bg-color)  100%);
+}
