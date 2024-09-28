@@ -1,3 +1,11 @@
-.bgColor {
-    background: #fff3b0;
+:root {
+    --dark: #D4A373;
+    --main-bg-color: #FAEDCD; 
+    --body-bg-color: #FEFAE0;
+    --body: #E9EDC9;
+    --accent: #CCD5AE;
+} 
+
+.body {
+    background: var(--body);
 }

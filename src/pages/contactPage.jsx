@@ -1,6 +1,6 @@
 export default function ContactPage() {
   return (
-    <section class="container my-5">
+    <section class="container">
       <div class="row justify-content-center">
         <div class="col-md-8">
           <h1 class="text-center mb-4">Contact Me</h1>
