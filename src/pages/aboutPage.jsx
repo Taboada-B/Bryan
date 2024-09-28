@@ -8,7 +8,7 @@ export default function AboutPage() {
           <img 
             src="./src/assets/images/bryan.jpg" 
             alt="Bryan Taboada"
-            class="img-fluid rounded-circle shadow"
+            class="img-fluid rounded-circle shadow-lg"
           />
         </div>
 

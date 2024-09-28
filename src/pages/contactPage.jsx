@@ -44,6 +44,10 @@ export default function ContactPage() {
                     github.com/Taboada-B
                   </a>
                 </li>
+                <li>
+                  <strong>Carrier Pigeon: </strong>
+                  <span>Available upon request. Patience required.</span>
+                </li>
               </ul>
             </div>
           </div>

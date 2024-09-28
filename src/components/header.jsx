@@ -1,4 +1,4 @@
-// import React from 'react';
+
 // import './Header.css'; // Assuming you want to add custom styling later
 
 const Header = () => {
@@ -9,16 +9,16 @@ const Header = () => {
                 <nav>
                     <ul className="nav justify-content-center mb-4">
                         <li className="nav-item">
-                            <a className="nav-link" href="#about">About Me</a>
+                            <a className="nav-link" href="/">About Me</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#projects">Projects</a>
+                            <a className="nav-link" href="projects">Projects</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#resume">Resume</a>
+                            <a className="nav-link" href="resume">Resume</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#contact">Contact</a>
+                            <a className="nav-link" href="contact">Contact</a>
                         </li>
                     </ul>
                 </nav>
