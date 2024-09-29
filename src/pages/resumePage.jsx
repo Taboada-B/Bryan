@@ -7,7 +7,7 @@ export default function ResumePage() {
         <p className="pt-3">View or download my resume below:</p>
         {/* Download Link */}
         <a 
-          href="./src/assets/resume/resume.pdf" 
+          href="./src/assets/resume/Resume.pdf" 
           target="_blank" 
           rel="noopener noreferrer"
           class="btn btn-primary"
