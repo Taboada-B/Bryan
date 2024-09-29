@@ -9,3 +9,25 @@
 .body {
     background: var(--body);
 }
+
+.accent {
+    background: var(--accent);
+}
+
+.font {
+     font-family: 'Times New Roman', Times, serif ;
+}
+.backgroundHeader {
+    /* background: linear-gradient( var(--accent) 10%,  var(--body-bg-color) 100%); */
+    background: var(--accent);
+}
+
+.backgroundFooter {
+    background: var(--accent);
+    /* background: linear-gradient( var(--body-bg-color) 0%, var(--main-bg-color)  100%); */
+}
+
+.tabs {
+    font-style: normal; 
+    font-size: x-large;
+}

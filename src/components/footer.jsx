@@ -1,4 +1,3 @@
-import './header.css'; 
 
 const Footer = () => {
     return (

@@ -3,10 +3,10 @@ export default function ContactPage() {
     <section class="container">
       <div class="row justify-content-center">
         <div class="col-md-8">
-          <h1 class="text-center mb-4">Contact Me</h1>
+          <h1 class="text-center m-4">Contact Me</h1>
 
           {/* Contact Info */}
-          <div class="card p-4 shadow">
+          <div class="card p-4 m-5 shadow accent">
             <div class="card-body">
               <h3>Let's Get in Touch!</h3>
               <p class="lead">
