@@ -17,7 +17,7 @@ const Footer = () => {
             </div>
             <div className="col-md-4 mb-3">
               <h5 className="font-weight-bold ">Location</h5>
-              <p className="footer-link">Denver, CO</p>
+              <a href="https://www.google.com/maps/place/Denver,+CO/@39.7644863,-105.019916,11z/data=!3m1!4b1!4m6!3m5!1s0x876b80aa231f17cf:0x118ef4f8278a36d6!8m2!3d39.7392358!4d-104.990251!16zL20vMDJjbDE?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D" className="footer-link">Denver, CO</a>
             </div>
           </div>
           <p className="mt-4">&copy; 2024 Bryan Taboada. All Rights Reserved.</p>
