@@ -1,18 +1,10 @@
 export default function ResumePage() {
   return (
-    <section>
-      <h1>Resume</h1>
-      <div class="embed-responsive" style={{ height: "500px" }}>
-        <iframe 
-          src="./src/assets/resume/resume.pdf" 
-          width="100%" 
-          height="100%" 
-          title="Bryan Taboada's Resume"
-          frameBorder="5px"
-        />
-      </div>
-      <div class="text-center mb-4">
-        <p>View or download my resume below:</p>
+    <section className="text-center">
+      <h1 className=" p-4">Resume</h1>
+        <img className="shadow-lg img-fluid rounded" src="./src/assets/images/ResumeImage.jpg" alt="Resume" />
+      <div class=" pb-4">
+        <p className="pt-3">View or download my resume below:</p>
         {/* Download Link */}
         <a 
           href="./src/assets/resume/resume.pdf" 

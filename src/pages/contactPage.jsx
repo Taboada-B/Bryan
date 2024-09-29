@@ -1,30 +1,30 @@
 export default function ContactPage() {
   return (
-    <section class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-8">
-          <h1 class="text-center m-4">Contact Me</h1>
+    <section className="container py-5">
+      <div className="row justify-content-center">
+        <div className="col-md-8">
+          <h1 className="text-center mb-4">Contact Me</h1>
 
           {/* Contact Info */}
-          <div class="card p-4 m-5 shadow accent">
-            <div class="card-body">
-              <h3>Let's Get in Touch!</h3>
-              <p class="lead">
+          <div className="card p-4 shadow-lg accent">
+            <div className="card-body">
+              <h3 className="text-center mb-3">Let's Get in Touch!</h3>
+              <p className="lead text-center mb-4">
                 I'd love to hear from you. Feel free to reach out through any of
                 the methods below:
               </p>
 
               {/* Contact Details */}
-              <ul class="list-unstyled">
-                <li>
+              <ul className="list-unstyled text-center">
+                <li className="mb-3">
                   <strong>Email: </strong>
-                  <a href="b.taboada123@gmail.com">b.taboada123@gmail.com</a>
+                  <a href="mailto:b.taboada123@gmail.com">b.taboada123@gmail.com</a>
                 </li>
-                <li>
+                <li className="mb-3">
                   <strong>Phone: </strong>
                   <a href="tel:+19499405653">(949) 940-5653</a>
                 </li>
-                <li>
+                <li className="mb-3">
                   <strong>LinkedIn: </strong>
                   <a
                     href="https://www.linkedin.com/in/bryan-taboada-a5a522135/"
@@ -34,7 +34,7 @@ export default function ContactPage() {
                     linkedin.com/in/bryantaboada
                   </a>
                 </li>
-                <li>
+                <li className="mb-3">
                   <strong>GitHub: </strong>
                   <a
                     href="https://github.com/Taboada-B"
@@ -44,7 +44,7 @@ export default function ContactPage() {
                     github.com/Taboada-B
                   </a>
                 </li>
-                <li>
+                <li className="mb-3">
                   <strong>Carrier Pigeon: </strong>
                   <span>Available upon request. Patience required.</span>
                 </li>
