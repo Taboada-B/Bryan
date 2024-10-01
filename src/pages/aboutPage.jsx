@@ -1,20 +1,20 @@
 export default function AboutPage() {
   return (
-    <section class="container bgColor">
-      <div class="row">
+    <section className="container bgColor">
+      <div className="row">
         {/* Profile Picture */}
-        <div class="col-md-4 text-center mb-4">
+        <div className="col-md-4 text-center mb-4">
           <img
             src="./assets/images/bryan.jpg"
             alt="Bryan Taboada"
-            class="img-fluid rounded-circle shadow-lg mt-4"
+            className="img-fluid rounded-circle shadow-lg mt-4"
           />
         </div>
 
         {/* About Me Text */}
-        <div class="col-md-8">
+        <div className="col-md-8">
           <h1>About Me</h1>
-          <p class="lead">
+          <p className="lead">
             Hi! I'm Bryan Taboada, a passionate web developer with a knack for
             solving complex problems and continuously learning new things. I
             specialize in building full stack web applications using
