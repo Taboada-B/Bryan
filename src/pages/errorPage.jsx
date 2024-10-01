@@ -11,7 +11,7 @@ export default function ErrorPage() {
       <p>
         <i>{error.statusText || error.message}</i>
       </p>
-      <img src="./src/assets/images/notfound.jpg" alt="404 page" /> {/* sizes="" srcset=""  */}
+      <img src="./assets/images/notfound.jpg" alt="404 page" /> {/* sizes="" srcset=""  */}
     </div>
   );
 }

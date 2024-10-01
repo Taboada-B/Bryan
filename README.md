@@ -18,7 +18,7 @@ Follow the link to the deployed website.
 ## Usage
 Simply click around the website to explore my portolio page.
 
-<img src="./src/assets/images/portolio.jpg" alt="screenshot" width="auto"/>
+<img src="./assets/images/portolio.jpg" alt="screenshot" width="auto"/>
 
 ## URL
 https://bryan-taboada.netlify.app/
@@ -26,10 +26,9 @@ https://bryan-taboada.netlify.app/
 ## Credits
 Bryan Taboada
 
-
 ## License
 
-<img src="./src/assets/images/MIT-logo.jpg" alt="logo" width="50"/>
+<img src="./assets/images/MIT-logo.jpg" alt="logo" width="50"/>
 
 This project is licensed under the MIT 
 - see the following link for details: [MIT License](https://opensource.org/licenses/MIT)

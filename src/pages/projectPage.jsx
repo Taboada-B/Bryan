@@ -10,7 +10,7 @@ export default function ProjectPage() {
           <div class="col-md-4 mb-4">
             <div class="card h-100">
               <img
-                src="../src/assets/images/PlatePal.jpg"
+                src="../assets/images/PlatePal.jpg"
                 class="card-img-top"
                 alt="Project 1 Screenshot"
               />
@@ -36,7 +36,7 @@ export default function ProjectPage() {
           <div class="col-md-4 mb-4">
             <div class="card h-100">
               <img
-                src="../src/assets/images/TaskBoard.png"
+                src="../assets/images/TaskBoard.png"
                 class="card-img-top"
                 alt="Project 2 Screenshot"
               />
@@ -63,7 +63,7 @@ export default function ProjectPage() {
           <div class="col-md-4 mb-4">
             <div class="card h-100">
               <img
-                src="../src/assets/images/WeatherDashboard.jpg"
+                src="../assets/images/WeatherDashboard.jpg"
                 class="card-img-top"
                 alt="Project 3 Screenshot"
               />

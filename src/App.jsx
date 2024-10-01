@@ -7,9 +7,9 @@ import "./app.css";
 function App() {
   return (
     <>
-    <div className="font">
+    <div className="font ">
       <Header  />
-      <main className="body" >
+      <main className="body fullSize " >
         <Outlet />
       </main>
       <Footer />

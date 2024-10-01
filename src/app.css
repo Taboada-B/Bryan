@@ -82,3 +82,11 @@
 .font-weight-bold {
     font-weight: 700;
 }
+
+.fullSize {
+    min-height: 60vh;
+    /* display:flex;
+    flex-direction: column;
+    height: 100vh; */
+}
+

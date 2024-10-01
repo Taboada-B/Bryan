@@ -5,7 +5,7 @@ export default function AboutPage() {
         {/* Profile Picture */}
         <div class="col-md-4 text-center mb-4">
           <img
-            src="./src/assets/images/bryan.jpg"
+            src="./assets/images/bryan.jpg"
             alt="Bryan Taboada"
             class="img-fluid rounded-circle shadow-lg mt-4"
           />
